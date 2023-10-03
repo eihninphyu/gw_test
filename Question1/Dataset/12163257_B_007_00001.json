@@ -1,0 +1,107 @@
+{
+    "record-01": {
+        "x": "88.0",
+        "y": "85.0",
+        "width": "456.0",
+        "height": "310.0",
+        "tag": "figure"
+    },
+    "record-02": {
+        "x": "109.0",
+        "y": "107.0",
+        "width": "121.0",
+        "height": "25.0",
+        "tag": "section"
+    },
+    "record-03": {
+        "x": "109.0",
+        "y": "145.0",
+        "width": "114.0",
+        "height": "131.0",
+        "tag": "text"
+    },
+    "record-04": {
+        "x": "109.0",
+        "y": "303.0",
+        "width": "64.0",
+        "height": "39.0",
+        "tag": "tagline"
+    },
+    "record-05": {
+        "x": "103.0",
+        "y": "436.0",
+        "width": "148.0",
+        "height": "26.0",
+        "tag": "section"
+    },
+    "record-06": {
+        "x": "103.0",
+        "y": "474.0",
+        "width": "178.0",
+        "height": "64.0",
+        "tag": "text"
+    },
+    "record-07": {
+        "x": "582.0",
+        "y": "88.0",
+        "width": "9.0",
+        "height": "611.0",
+        "tag": "subtitle"
+    },
+    "record-08": {
+        "x": "603.0",
+        "y": "89.0",
+        "width": "32.0",
+        "height": "619.0",
+        "tag": "title"
+    },
+    "record-09": {
+        "x": "108.0",
+        "y": "560.0",
+        "width": "307.0",
+        "height": "226.0",
+        "tag": "figure"
+    },
+    "record-10": {
+        "x": "336.0",
+        "y": "436.0",
+        "width": "148.0",
+        "height": "26.0",
+        "tag": "section"
+    },
+    "record-11": {
+        "x": "337.0",
+        "y": "474.0",
+        "width": "178.0",
+        "height": "63.0",
+        "tag": "text"
+    },
+    "record-12": {
+        "x": "383.0",
+        "y": "603.0",
+        "width": "132.0",
+        "height": "25.0",
+        "tag": "section"
+    },
+    "record-13": {
+        "x": "429.0",
+        "y": "641.0",
+        "width": "86.0",
+        "height": "142.0",
+        "tag": "text"
+    },
+    "record-14": {
+        "x": "558.0",
+        "y": "835.0",
+        "width": "59.0",
+        "height": "8.0",
+        "tag": "footer"
+    },
+    "record-15": {
+        "x": "625.0",
+        "y": "834.0",
+        "width": "9.0",
+        "height": "6.0",
+        "tag": "page"
+    }
+}

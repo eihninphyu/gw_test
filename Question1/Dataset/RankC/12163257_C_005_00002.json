@@ -1,0 +1,79 @@
+{
+    "record-01": {
+        "x": "0.0",
+        "y": "42.0",
+        "width": "545.0",
+        "height": "446.0",
+        "tag": "figure"
+    },
+    "record-02": {
+        "x": "6.0",
+        "y": "527.0",
+        "width": "8.0",
+        "height": "133.0",
+        "tag": "tagline"
+    },
+    "record-03": {
+        "x": "5.0",
+        "y": "680.0",
+        "width": "9.0",
+        "height": "142.0",
+        "tag": "tagline"
+    },
+    "record-04": {
+        "x": "89.0",
+        "y": "519.0",
+        "width": "219.0",
+        "height": "141.0",
+        "tag": "text"
+    },
+    "record-05": {
+        "x": "578.0",
+        "y": "88.0",
+        "width": "10.0",
+        "height": "652.0",
+        "tag": "subtitle"
+    },
+    "record-06": {
+        "x": "596.0",
+        "y": "88.0",
+        "width": "42.0",
+        "height": "675.0",
+        "tag": "title"
+    },
+    "record-07": {
+        "x": "89.0",
+        "y": "680.0",
+        "width": "457.0",
+        "height": "142.0",
+        "tag": "text"
+    },
+    "record-08": {
+        "x": "321.0",
+        "y": "527.0",
+        "width": "22.0",
+        "height": "126.0",
+        "tag": "section"
+    },
+    "record-09": {
+        "x": "356.0",
+        "y": "519.0",
+        "width": "190.0",
+        "height": "141.0",
+        "tag": "text"
+    },
+    "record-10": {
+        "x": "558.0",
+        "y": "835.0",
+        "width": "61.0",
+        "height": "8.0",
+        "tag": "footer"
+    },
+    "record-11": {
+        "x": "625.0",
+        "y": "834.0",
+        "width": "9.0",
+        "height": "6.0",
+        "tag": "page"
+    }
+}

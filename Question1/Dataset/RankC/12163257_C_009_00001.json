@@ -1,0 +1,100 @@
+{
+    "record-01": {
+        "x": "138.0",
+        "y": "128.0",
+        "width": "401.0",
+        "height": "206.0",
+        "tag": "figure"
+    },
+    "record-02": {
+        "x": "449.0",
+        "y": "71.0",
+        "width": "87.0",
+        "height": "85.0",
+        "tag": "caption"
+    },
+    "record-03": {
+        "x": "96.0",
+        "y": "377.0",
+        "width": "216.0",
+        "height": "57.0",
+        "tag": "text"
+    },
+    "record-04": {
+        "x": "84.0",
+        "y": "503.0",
+        "width": "79.0",
+        "height": "86.0",
+        "tag": "caption"
+    },
+    "record-05": {
+        "x": "578.0",
+        "y": "85.0",
+        "width": "12.0",
+        "height": "643.0",
+        "tag": "subtitle"
+    },
+    "record-06": {
+        "x": "599.0",
+        "y": "88.0",
+        "width": "33.0",
+        "height": "684.0",
+        "tag": "title"
+    },
+    "record-07": {
+        "x": "192.0",
+        "y": "349.0",
+        "width": "258.0",
+        "height": "15.0",
+        "tag": "section"
+    },
+    "record-08": {
+        "x": "96.0",
+        "y": "764.0",
+        "width": "217.0",
+        "height": "58.0",
+        "tag": "text"
+    },
+    "record-09": {
+        "x": "162.0",
+        "y": "480.0",
+        "width": "321.0",
+        "height": "242.0",
+        "tag": "figure"
+    },
+    "record-10": {
+        "x": "329.0",
+        "y": "374.0",
+        "width": "216.0",
+        "height": "60.0",
+        "tag": "text"
+    },
+    "record-11": {
+        "x": "175.0",
+        "y": "737.0",
+        "width": "292.0",
+        "height": "16.0",
+        "tag": "section"
+    },
+    "record-12": {
+        "x": "328.0",
+        "y": "766.0",
+        "width": "218.0",
+        "height": "57.0",
+        "tag": "section"
+    },
+    "record-13": {
+        "x": "557.0",
+        "y": "835.0",
+        "width": "61.0",
+        "height": "8.0",
+        "tag": "footer"
+    },
+    "record-14": {
+        "x": "625.0",
+        "y": "834.0",
+        "width": "9.0",
+        "height": "6.0",
+        "tag": "page"
+    }
+}

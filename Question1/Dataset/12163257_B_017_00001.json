@@ -1,0 +1,100 @@
+{
+    "record-01": {
+        "x": "98.0",
+        "y": "87.0",
+        "width": "544.0",
+        "height": "396.0",
+        "tag": "figure"
+    },
+    "record-02": {
+        "x": "98.0",
+        "y": "488.0",
+        "width": "91.0",
+        "height": "48.0",
+        "tag": "caption"
+    },
+    "record-03": {
+        "x": "98.0",
+        "y": "568.0",
+        "width": "142.0",
+        "height": "254.0",
+        "tag": "figure"
+    },
+    "record-04": {
+        "x": "97.0",
+        "y": "834.0",
+        "width": "8.0",
+        "height": "6.0",
+        "tag": "page"
+    },
+    "record-05": {
+        "x": "113.0",
+        "y": "835.0",
+        "width": "60.0",
+        "height": "8.0",
+        "tag": "footer"
+    },
+    "record-06": {
+        "x": "273.0",
+        "y": "506.0",
+        "width": "153.0",
+        "height": "162.0",
+        "tag": "figure"
+    },
+    "record-07": {
+        "x": "274.0",
+        "y": "672.0",
+        "width": "152.0",
+        "height": "24.0",
+        "tag": "caption"
+    },
+    "record-08": {
+        "x": "275.0",
+        "y": "769.0",
+        "width": "149.0",
+        "height": "53.0",
+        "tag": "text"
+    },
+    "record-09": {
+        "x": "306.0",
+        "y": "719.0",
+        "width": "88.0",
+        "height": "11.0",
+        "tag": "category"
+    },
+    "record-10": {
+        "x": "333.0",
+        "y": "737.0",
+        "width": "32.0",
+        "height": "16.0",
+        "tag": "subtitle"
+    },
+    "record-11": {
+        "x": "489.0",
+        "y": "506.0",
+        "width": "152.0",
+        "height": "138.0",
+        "tag": "figure"
+    },
+    "record-12": {
+        "x": "453.0",
+        "y": "553.0",
+        "width": "31.0",
+        "height": "90.0",
+        "tag": "caption"
+    },
+    "record-13": {
+        "x": "453.0",
+        "y": "669.0",
+        "width": "188.0",
+        "height": "133.0",
+        "tag": "figure"
+    },
+    "record-14": {
+        "x": "453.0",
+        "y": "806.0",
+        "width": "188.0",
+        "height": "16.0",
+        "tag": "caption"
+    }
+}

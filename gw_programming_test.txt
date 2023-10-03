@@ -1,0 +1,203 @@
+
+【 Global Walkers Programming Test 】
+
+===== Introduction ============================================================
+
+This test measures the programming description level of python.
+
+- Please think about this test and solve it yourself.
+
+- This Test is confidential. Do not leak to others.
+
+- The scoring criteria are as follows:
+  - The program works correctly.
+  - The program must be easy to read.
+    Write code that is easy to read for others.
+
+- There is no problem until the program can be created.
+  - When you cannot create a program:
+    - Please describe in detail which functions are not working.
+    - Please explain in detail why you cannot write a program.
+    - Please describe the above in the text of the email.
+
+- If you have any questions please contact us by email.
+  - If you don't understand the question, please contact us by email.
+  - If you can't solve everything, send a hint program
+    Please contact us by email.
+
+- There are 7 tests in total.
+  - Create one source code file for each Question.
+  - Create the programming language with python.
+  - Please submit the source code for the created program.
+    - Save the created source code in the gw_test folder, 
+      compress it into gw_test.zip, and attach it to the email
+
+- Use python version 3.5 or later.
+  - In Question2, it is necessary to add a library to the python environment.
+    Install the library yourself.
+
+
+
+===== Question 1 ==============================================================
+
+Create a program that addresses the following three issues.
+( Question 1.1 / Question 1.2 / Question 1.3 ).
+This Question asks you to creates a program to convert CSV files to another format.
+
+
+
+===== Question 1.1
+
+Create a program that outputs the number of all CSV files stored in the following folder.
+
+  - Folder : gw_test/Question1/Dataset
+
+Write a program that meets the following specifications.
+
+  - The file name of the program is "question_1_1.py".
+  - Output the result to standard output according to the following output example.
+    Output Example: ( "?" is a number )
+    ------------------------------------------------
+      CSV File Count: ?? files
+    ------------------------------------------------
+
+
+
+===== Question 1.2
+
+Coordinate values ​​and tags are recorded in the CSV in the following folder.
+
+  - Folder : gw_test/Question1/Dataset
+
+The format of each line in each CSV file is as follows.
+
+  - Format : [ x(float), y(float), width(float), height(float), tag(string) ]
+
+Write a program to convert all CSV to JSON format.
+Write a program that meets the following specifications.
+
+  - The file name of the program is "question_1_2.py".
+  - Output 1 JSON file per 1 CSV.
+  - Generate the JSON file in the same folder as the CSV file.
+  - Create a JSON file name according to the following example.
+    File Name Example:
+    ------------------------------------------------------------
+      src: gw_test/Question1/Dataset/12163257_B_004_00001.csv
+      dst: gw_test/Question1/Dataset/12163257_B_004_00001.json
+    ------------------------------------------------------------
+  - Refer to the sample below for the format of the JSON file.
+    JSON File Example: gw_test/Question1/Dataset/12163257_B_004_00001.json
+
+
+
+===== Question 1.3
+
+Coordinate values ​​and tags are recorded in the CSV in the following folder.
+
+  - Folder : gw_test/Question1/Dataset
+
+The format of each line in each CSV file is as follows.
+
+  - Format : [ x(float), y(float), width(float), height(float), tag(string) ]
+
+Write a program to convert all CSV to XML format.
+Write a program that meets the following specifications.
+
+  - The file name of the program is "question_1_3.py".
+  - Output 1 XML file per 1 CSV.
+  - Generate the XML file in the same folder as the CSV file.
+  - Create a XML file name according to the following example.
+    File Name Example:
+    ------------------------------------------------------------
+      src: gw_test/Question1/Dataset/12163257_B_004_00001.csv
+      dst: gw_test/Question1/Dataset/12163257_B_004_00001.xml
+    ------------------------------------------------------------
+  - Refer to the sample below for the format of the XML file.
+    XML File Example: gw_test/Question1/Dataset/12163257_B_004_00001.xml
+
+
+
+===== Question 2 ==============================================================
+
+Create a program that addresses the following four issues.
+( Question 2.1 / 2.2 )
+This Question asks you to create a program to extract and edit information from images.
+Investigate library specifications and write programs based on the following tips.
+
+- Tips:
+
+  - Use "Pillow" library for python to load and save images.
+    Set up "Pillow" for python environment as follows.
+    -------------------------------------------------
+    $ pip install Pillow
+    -------------------------------------------------
+
+  - Use "numpy" library for python to manipulate image RGB information.
+    Set up "numpy" for python environment as follows.
+    -------------------------------------------------
+    $ pip install numpy
+    -------------------------------------------------
+
+
+
+===== Question 2.1
+
+The following is an image composed of three colors.
+
+  - Image : gw_test/Question2/sample.png
+  - Colors: Red, Green, Blue
+
+Create a program that outputs the number of pixels for each color in this image.
+Write a program that meets the following specifications.
+
+  - The file name of the program is "question_2_2.py".
+  - Output the result to standard output according to the following output example.
+  - Output Example: ( "?" is a number )
+    ------------------------------------------------
+      red   :   ????? pixels
+      green : ??????? pixels
+      blue  :     ??? pixels
+    ------------------------------------------------
+
+
+
+===== Question 2.2
+
+The following is an image composed of three colors.
+
+  - Image : gw_test/Question_2/sample.png
+  - Colors: Red, Green, Blue
+
+Create a program that creates an image with only red pixels masked.
+Write a program that meets the following specifications.
+
+  - The file name of the program is "question_2_2.py".
+  - Create an image with red pixels in white and other pixels in black.
+  - Save the generated image in PNG format.
+  - File name of the image should be "result.png".
+  - Save the generated image in the same folder as the loaded image.
+
+
+====== Question 2.3
+Create a program that generate a synthetic image from gw_test/Question_2/background.jpg,
+foreground.jpg, and mask.png.
+  - The file name of the program is "question_2_3.py".
+  - extract the region of person from foreground.jpg using mask.png, and then compose the person on background.jpg.
+  - Save the generated image in JPG format.
+  - File name of the image should be "result3.jpg".
+  - Save the generated image in the same folder as the loaded image.
+
+
+====== Question 2.4
+Create a program that generate a synthetic image from gw_test/Question_2/background.jpg,
+foreground.jpg, and mask.png.
+  - The file name of the program is "question_2_4.py".
+  - Extract the region of person from foreground.jpg using mask.png, and compose the person on background.jpg.
+    This process is same as Question 2.3
+  - Then crop image to 1024x1024 pixels. The center of cropped image must be the center of gravity of the person.
+  - Rotate the cropped image 30 degrees to the right (clockwise). The coordinate center must be the center of cropped image.
+  - Save the generated image in JPG format.
+  - File name of the image should be "result4.jpg".
+  - Save the generated image in the same folder as the loaded image.
+
+
